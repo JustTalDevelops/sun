@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://github.com/SunProxy/sun/blob/master/SunProxy.png"/><br>A MCPE Proxy Client</p>
+# <p align="center"><img src="https://github.com/SunProxy/sun/blob/master/banner.png"/><br>A MCPE Proxy Client</p>
 
 ## Explanation
 A normal connection is made out to be like this. <br >
